@@ -1,0 +1,21 @@
+**Desafio de Projeto – “Refinando um Projeto Conceitual de Banco de DadosE-COMMERCE”***
+
+** **
+
+Repositório criado para entrega do Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE da DIO referente ao Bootcamp - Database Experience
+
+ 
+
+**Dados do Desafio / Pontos para Melhoria:**
+
+- Cliente CNPJ ou CPF – Uma conta     pode ser PJ ou PF, mas não pode ter as duas informações;
+- Pagamento – Pode ter cadastrado     mais de uma forma de pagamento;
+- Entrega – Possui     status e código de rastreio.
+
+ 
+
+ 
+
+ 
+
+* Sujeito a erros de principiante e disposta a aprender, fiquem a vontade para contribuir com meu aprendizado. Agradeço desde já! ♥
